@@ -10,5 +10,4 @@ Matricula: 00885080
 ![Tela de inspeção do site globo esporte](telaRedeArquivos.png)
 
 ## Tela de projeto no Replit
-![Tela de projeto código](replit.png)
-![Tela funcionando](webSiteReplit.png)
+![Tela de projeto replit](helloWorld.png)
