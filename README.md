@@ -7,7 +7,7 @@ Nome: Gabriel Egídio Santos Beloni
 Matricula: 00885080
 
 ## Tela de inspeção com navegador
-![Tela de inspeção do site globo esporte](telaRedeArquivos.png)
+![Tela de inspeção do site globo esporte](arquivos.png)
 
 ## Tela de projeto no Replit
-![Tela de projeto replit](helloWorld.png)
+![Tela de projeto replit](site.png)
