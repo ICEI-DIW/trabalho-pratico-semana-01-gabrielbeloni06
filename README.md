@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Gabriel Egídio Santos Beloni
+Matricula: 00885080
 
 ## Tela de inspeção com navegador
-
+![Tela de inspeção do site globo esporte](telaRedeArquivos.png)
 
 ## Tela de projeto no Replit
-
+![Tela de projeto código](replit.png)
+![Tela funcionando](webSiteReplit.png)
